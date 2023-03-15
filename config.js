@@ -44,8 +44,8 @@ const readMore = more.repeat(4001)
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sgh = 'https://github.com/ZykoBotz-MD' // github
-global.sgc = 'https://chat.whatsapp.com/INq67rkTp8iAwiVvLOFAYH' // group whatsapp
+global.sgh = 'https://github.com/aisyahcntik' // github
+global.sgc = 'https://chat.whatsapp.com/EQc33IWwlEo3cLGoXiworJ' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
 global.snh = 'https://youtu.be/E1Cb97Rb-8U' // my youtube channel
 global.sfb = 'https://www.facebook.com/' // facebook
@@ -55,16 +55,16 @@ global.tautanwa = 'https://wa.me/message/CXI3LHFLC6NON1'
 global.wame = 'https://wa.me/message/CXI3LHFLC6NON1' // kalau gk punya bisa ganti pake gini wa.me/6283133329293
 
 /*============== PAYMENT ==============*/
-global.pdana = '0852 1264 9276' //dana
+global.pdana = '0896 6915 2489' //dana
 global.povo = '0852 1264 9276' //ovo
-global.pgopay = '0852 1264 9276' //gopay
-global.plinkaja = '0852 1264 9276' //link aja
-global.ppulsa = '0852 1264 9276' //telkomsel
-global.ppulsa2 = '0831 3332 9293' // kalau ada kartu lain isi aja
+global.pgopay = '0896 6915 2489' //gopay
+global.plinkaja = '-' //link aja
+global.ppulsa = '0896 6915 2489' //telkomsel
+global.ppulsa2 = '0859 5009 1241' // kalau ada kartu lain isi aja
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282124690625'
+global.nomorbot = '6285950091241'
 global.nomorown = '6283133329293'
 global.nomorown1 = '6283133329293' //pake No Pacar lo Juga Boleh
 global.namebot = 'ZYKOBOTZ MD'
